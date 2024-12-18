@@ -9,3 +9,8 @@ test push to main with ruleset
 test push ot main with adjusted ruleset
 
 change in feature branch
+
+try branch rule not ruleset
+
+test admin
+test rule again
